@@ -14,4 +14,4 @@ class GameData:
         self.fonts = {}
         self.inputs = None
         self.renderer = None
-        self.score = 0
+        self.score = 1
