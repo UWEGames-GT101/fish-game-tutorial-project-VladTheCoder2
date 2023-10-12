@@ -1,3 +1,6 @@
+import pyasge.COLOURS
+
+
 class GameData:
     """ GameData stores the data that needs to be shared
 
